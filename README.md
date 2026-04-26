@@ -54,7 +54,6 @@ Herramientas para procesar datos, asegurar conexiones y escalar servicios:
 </div>
 
 ---
-
 ## 🏗️ Filosofía de Código
 
 ```python
@@ -69,3 +68,18 @@ class BackendApproach:
             "testing": "PyTest / JUnit Integration",
             "architecture": "Clean Architecture / Hexagonal"
         }
+```
+
+## 📫 Conectemos
+
+¿Tienes un proyecto en mente? Hablemos de cómo hacerlo realidad.
+
+<div align="center">
+  <a href="mailto:odarjimenezj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/odarjose/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portafolio-zeta-henna.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</div>
+
+
+
+
